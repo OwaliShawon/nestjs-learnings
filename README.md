@@ -9,6 +9,7 @@ Step-by-step NestJS tutorials from beginner to advanced with simple examples.
 
 ## Steps
 1. [Step 01: Introduction](docs/step-01-introduction.md)
+2. [Step 02: Setup & Install](docs/step-02-setup-and-install.md)
 
 ## Structure
 - `docs/` — step-by-step tutorial notes.
